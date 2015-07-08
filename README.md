@@ -1,60 +1,40 @@
-# Left
+# CleanMagicMedium V.0.0.2
+CleanMagicMedium V.0.0.2 - Jekyll Theme V.0.1.0 
 
-Left is a clean, whitespace-happy layout for [Jekyll](https://github.com/mojombo/jekyll).
+Fork it, Star it, And Download it!
+CleanMagicMedium V.0.0.2 - A Jekyll Theme. 
 
-This is designed to be an easy layout to modify for your own blog. It was
-extracted from [zachholman.com](http://zachholman.com/), which means it was
-battle-hardened from years of posting serious blog posts about emoji and swear
-words.
+[Demo](https://lucasgatsas.ch) 
 
-You can see it live right here: <http://zachholman.com/left/>
+[Download](https://github.com/SpaceG/CleanMagicMedium-Jekyll-V.0.2.0) 
 
-![Left](http://cl.ly/image/3S2r1p2C0E2B/content)
+![alt tag](https://spaceg.github.io/img/intro-theme-1.png)
 
-## Installation
+Download it <code> git clone https://github.com/SpaceG/CleanMagicMedium-Jekyll.git</code>
 
-- Install Jekyll: `gem install jekyll`
-- [Fork this repository](https://github.com/holman/left/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/left`
-- Run the jekyll server: `jekyll serve -w`
+Download it, open it with Terminal and run <code> jekyll serve </code> 
+Have Fun! Please Star it and Fork it! 
+Cheers with Club Mate!
 
-You should have a server up and running locally at <http://localhost:4000>.
 
-## Customization
 
-Next you'll want to change a few things. Most of them can be changed directly in
-[_config.yml](https://github.com/holman/left/blob/gh-pages/_config.yml). That's
-where we'll pull your name, Twitter username, and things like that.
 
-There's a few other places that you'll want to change, too:
+CleanMagic Theme by Lucas Gatsas Mo. 4. Mai 2015, Switzerland, TimeGrade 03:52:02
+Try  https://github.com/jekyll/jekyll Jekyll a New Blogging System using node.js 
+Notice: Be Sure that your Host provide node.js on Standart Host ( Shared Hosting - Standart WebHost or WebSpace)! you need always a Virtual Server ask your Provider about more Details for http://jekyllrb.com/ and Install node.js on your Host!
 
-- [CNAME](https://github.com/holman/left/blob/gh-pages/CNAME): If you're using
-  this on GitHub Pages with a custom domain name, you'll want to change this
-  to be the domain you're going to use. All that should be in here is a
-  domain name on the first line and nothing else (like: `example.com`).
-- [favicon.ico](https://github.com/holman/left/blob/gh-pages/favicon.ico): This
-  is a smaller version of my gravatar for use as the icon in your browser's
-  address bar. You should change it to whatever you'd like.
-- [apple-touch-icon.png](https://github.com/holman/left/blob/gh-pages/apple-touch-icon.png):
-  Again, this is my gravatar, and it shows up in iOS and various other apps
-  that use this file as an "icon" for your site.
+[Jekyll](http://jekyllrb.com/) 
 
-## Deployment
+[OpenSource Jekyll](https://github.com/jekyll/jekyll) 
 
-Left is designed to be deployed to [GitHub Pages](http://pages.github.com). It
-uses [repository metadata](https://help.github.com/articles/repository-metadata-on-github-pages)
-to generate some of your content, like your GitHub URL and avatar information (so you
-might not actually see it locally until you push it up to Pages).
 
-All you should have to do is rename your repository on GitHub to be
-`username.github.com`. Since everything is on the `gh-pages` branch, you
-should be able to see your new site at <http://username.github.io>.
 
-## Licensing
 
-This is [MIT](https://github.com/holman/left/blob/gh-pages/LICENSE) with no
-added caveats, so feel free to use this on your site without linking back to
-me or using a disclaimer or anything silly like that.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-If you'd like give me credit somewhere on your blog or tweet a shout out to
-[@holman](https://twitter.com/holman), well hey, I'll take it.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Copyright © 2013 - 2015. Lucas Gatsas - Softwares
+
