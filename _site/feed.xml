@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>l.g</title>
-    <description>Hello, My Name is Lucas Gatsas, I&#39;m a Front End Engineer and Web Developer from Switzerland. This is my Personal Notice and Archive Work Experience Work Blog. My Official Website will be Up soon! Code and Space!</description>
-    <link>https://lucasgatsas.ch/</link>
-    <atom:link href="https://lucasgatsas.ch/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Jul 2015 16:47:24 -0700</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2015 16:47:24 -0700</lastBuildDate>
+    <title>Sean Mertens</title>
+    <description>Hello, My Name is Sean Mertens, I&#39;m a Coding Genius from Switzerland. My Official Website will be Up soon!</description>
+    <link>https://codinggenius.github.io/</link>
+    <atom:link href="https://codinggenius.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 08 Jul 2015 16:52:41 -0700</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2015 16:52:41 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
   </channel>
